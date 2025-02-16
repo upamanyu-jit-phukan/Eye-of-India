@@ -1,6 +1,6 @@
 # eye_of_india
 
-Empowering citizens, driven by AI.
+Empowering Citizens, Driven by AI.
 
 ## Getting Started
 
