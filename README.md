@@ -1,6 +1,6 @@
 # eye_of_india
 
-A new Flutter project.
+Empowering citizens, driven by AI.
 
 ## Getting Started
 
