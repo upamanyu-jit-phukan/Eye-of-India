@@ -74,12 +74,13 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-    - family: League Spartan
+    - family: LeagueSpartan
       fonts:
-        - asset: fonts/LeagueSpartan-Bold.ttf
-        - asset: fonts/LeagueSpartan-Light.ttf
-        - asset: fonts/LeagueSpartan-Medium.ttf
-        - asset: fonts/LeagueSpartan-Regular.ttf
+        - asset: assets/fonts/LeagueSpartan-Bold.ttf
+        - asset: assets/fonts/LeagueSpartan-Light.ttf
+        - asset: assets/fonts/LeagueSpartan-Medium.ttf
+        - asset: assets/fonts/LeagueSpartan-Regular.ttf
+        - asset: assets/fonts/LeagueSpartan-SemiBold.ttf
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf
