@@ -175,6 +175,9 @@ class _LoginscreenState extends State<Loginscreen> {
 
                           const SizedBox(height: 9),
 
+                          Uihelper.customText(text: 'Login via', color: Color(0XFF393939), fontweight: FontWeight.w400, fontsize: 15, fontfamily: 'LeagueSpartan'),
+                          const SizedBox(height: 5),
+
                           // Google Login Button with delay
                           AnimatedOpacity(
                             opacity: showGoogleIcon ? 1.0 : 0.0,
